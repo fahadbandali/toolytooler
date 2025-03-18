@@ -1,5 +1,0 @@
-Small python script to help with navigating the terminal called tooly.
-Uses ChatGpt 4o mini with a system instructions to get the commands you need and iterate on them
-
-In the future, id like to add tools to the prompt.
-The tools should contain custom shell scripts located in the custom-scripts folder which take in multiple arguments and do some longer processes
